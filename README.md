@@ -1,4 +1,4 @@
-## GCP tinkering and training
+## GCP activity, updates, messing!
 
 - gcp-storage-config.sh
 //Objectives
